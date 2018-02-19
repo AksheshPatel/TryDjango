@@ -1,0 +1,1 @@
+/mnt/c/Users/Akshesh Patel/Desktop/trydjango1/manage.py
